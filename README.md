@@ -21,5 +21,7 @@ Probabilistic Graphical Models (PGMs) provide:
 ## 📁 Repository Structure
 
 data/ → Heart disease dataset (CSV)
+
 code/ → Preprocessing, Bayesian Network construction, and inference
+
 report/ → Final project report (IEEE format)
